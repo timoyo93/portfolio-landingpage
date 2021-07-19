@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build -i src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoyo93/portfolio-landingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timoyo93/portfolio-landingpage/issues"
+  },
+  "homepage": "https://github.com/timoyo93/portfolio-landingpage#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
